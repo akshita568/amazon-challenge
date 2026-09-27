@@ -1,0 +1,23 @@
+# Dataset
+dataset/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+
+# Generated models
+models/
+*.pkl
+*.joblib
+
+# Generated normalized data
+code/business_entity_resolution/output/normalized/
+
+
+# Generated outputs
+code/business_entity_resolution/output/
